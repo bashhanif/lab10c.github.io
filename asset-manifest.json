@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bashhanif/lab10c.github.io/static/css/main.3ce733a6.css",
+    "main.js": "/bashhanif/lab10c.github.io/static/js/main.a8e6df52.js",
+    "static/js/787.eeb4b43e.chunk.js": "/bashhanif/lab10c.github.io/static/js/787.eeb4b43e.chunk.js",
+    "index.html": "/bashhanif/lab10c.github.io/index.html",
+    "main.3ce733a6.css.map": "/bashhanif/lab10c.github.io/static/css/main.3ce733a6.css.map",
+    "main.a8e6df52.js.map": "/bashhanif/lab10c.github.io/static/js/main.a8e6df52.js.map",
+    "787.eeb4b43e.chunk.js.map": "/bashhanif/lab10c.github.io/static/js/787.eeb4b43e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ce733a6.css",
+    "static/js/main.a8e6df52.js"
+  ]
+}
